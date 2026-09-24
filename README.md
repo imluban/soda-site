@@ -25,31 +25,6 @@ A full-stack Next.js 14 + TypeScript + Tailwind CSS website converted from the o
 | `/privacy` | Privacy policy |
 | `/terms` | Terms of service |
 
-## Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000)
-
-## Build for Production
-
-```bash
-npm run build
-npm start
-```
-
-## Deploy to Vercel (one command)
-
-```bash
-npx vercel
-```
-
 ## Project Structure
 
 ```
