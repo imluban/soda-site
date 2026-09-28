@@ -352,8 +352,8 @@ export default function HeroScene() {
           ref={canRef as React.RefObject<HTMLElement>}
           src={ASSETS.canGlb}
           alt="Diet Soda 3D Model"
-          camera-controls=""
-          disable-zoom=""
+          camera-controls="true"
+          disable-zoom="true"
           shadow-intensity="0"
           environment-image="neutral"
           exposure="1.5"

@@ -2,8 +2,6 @@
 
 import { useState } from 'react';
 
-export const metadata = undefined; // client component
-
 export default function ContactPage() {
   const [submitted, setSubmitted] = useState(false);
   const [form, setForm] = useState({ name: '', email: '', subject: '', message: '' });
